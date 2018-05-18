@@ -1,0 +1,69 @@
+H:\Editor de Grafos\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\Editor de Grafos\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+H:\Editor de Grafos\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\Editor de Grafos\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+H:\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\arquivos_07-03-17_21h32\Editor de Grafos\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+F:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+F:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+D:\Editor de Grafos - VS\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+D:\Editor de Grafos - VS\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+D:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+D:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+D:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+D:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+D:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+D:\Editor de Grafos - VS\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\Editor de Grafos 2017.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\AED\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.cache
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.CoreCompileInputs.cache
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+C:\Projetos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe.config
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe.config
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csprojResolveAssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+C:\Users\franc\OneDrive\Documentos\Editor de Grafos 2018.1 (C#)\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
